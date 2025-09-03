@@ -1,16 +1,37 @@
-## Hi there 👋
+# Vikrant Kumar Choudhary
 
-<!--
-**vixcdry/vixcdry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 𝙈𝙞𝙩𝙝𝙞𝙡𝙮ḥ 𝙈𝙖𝙞𝙩𝙝𝙞𝙡𝙖ḥ  
+*Journal | Research | Culture*  
+**Editorial @ [Varnalipih](https://github.com/VARNALIPIH)**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+Creative and analytical professional with expertise in **design, journalism, UX research, and multilingual content development**.  
+Exploring intersections of **culture, media, and society**, while building platforms for editorial and cultural narratives.  
+
+---
+
+## 🔑 Core Competencies
+- UX Research & Design  
+- Editorial & Content Strategy  
+- Cultural & Linguistic Studies  
+- Data Analysis & Interpretation  
+- Digital Media & Communication  
+
+---
+
+## 🌐 Connect with Me
+- 📧 Email: [ugneyvikrant@gmail.com](mailto:ugneyvikrant@gmail.com)  
+- 🌍 Website: [www.ugney.in](http://www.ugney.in)  
+- 💼 LinkedIn: [linkedin.com/in/ugneyvikrant](http://linkedin.com/in/ugneyvikrant)  
+- 📝 Editorial: [Varnalipih](https://github.com/VARNALIPIH)  
+
+---
+
+## 📌 Current Focus
+- Documenting **research & cultural narratives** through *Varnalipih*  
+- Advancing **user-focused design & editorial innovation**  
+- Exploring **language, heritage, and media ecosystems**  
+
+---
