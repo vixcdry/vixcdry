@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Design-FF4136?style=for-the-badge&logo=adobecreativecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Research-0074D9?style=for-the-badge&logo=academia&logoColor=white"/>
-<img src="https://img.shields.io/badge/Editorial-2ECC40?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Editorial-FF9800?style=for-the-badge&logo=bookstack&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -125,16 +125,19 @@ Adaptable, detail-oriented, and committed to producing meaningful, research-base
 <img src="https://img.shields.io/badge/Hindi-Fluent-FF9933?style=for-the-badge&logo=hindustan&logoColor=white"/>
 <img src="https://img.shields.io/badge/Maithili-Native-800000?style=for-the-badge&logo=language&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bengali-Fluent-008000?style=for-the-badge&logo=language&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deutsch-Learning-00008B?style=for-the-badge&logo=de&logoColor=white"/>
-</p>
----
+<img src="https://img.shields.io/badge/Deutsch-Beginner-4285F4?style=for-the-badge&logo=language&logoColor=white"/>
+  
+<div style="display: flex; flex-direction: row; gap: 5px; overflow-x: auto;">
 
-## 📊 GitHub Stats & Contribution
+  <div style="width: 50px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=vixcdry&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width:50%;"/>
+  </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vixcdry&show_icons=true&theme=radical&hide_border=true" alt="Vikrant's GitHub Stats"/>
-</p>
+  <div style="width: 50px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=vixcdry&show_icons=false&theme=radical&count_private=true&hide_border=true&include_all_commits=true&hide_title=false" alt="Contribution Graph" style="width:50%;"/>
+  </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vixcdry&show_icons=false&theme=radical&count_private=true&hide_border=true&include_all_commits=true&hide_title=false" alt="Vikrant's Contribution Graph"/>
-</p>
+  <div style="width: 50px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vixcdry&theme=radical&hide_border=true" alt="GitHub Streak Stats" style="width:50%;"/>
+  </div>
+</div>
