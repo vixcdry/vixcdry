@@ -1,42 +1,52 @@
-# <div style="border:2px solid #4CAF50; border-radius:12px; padding:15px; background-color:#E8F5E9; display:inline-block;">VIKRANT KR. CHOUDHARY</div>
+<!-- ================= HEADER ================= -->
+<p align="center">
+<img src="https://img.shields.io/badge/VIKRANT%20KR.%20CHOUDHARY-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
-<div style="border:2px solid #2196F3; border-radius:10px; padding:10px; background-color:#E3F2FD; display:inline-block;">
-**Design | Research | Editorial**  
-📧 [ugneyvikrant@gmail.com](mailto:ugneyvikrant@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/ugneyvikrant) | [Website](http://www.ugney.in) | [Vocal.media](https://vocal.media)
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Design-FF6F61?style=for-the-badge&logo=adobe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Research-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Editorial-2196F3?style=for-the-badge&logo=readme&logoColor=white"/>
+</p>
 
----
-
-<div style="border:2px solid #FF9800; border-radius:10px; padding:10px; background-color:#FFF3E0;">
-## **Professional Profile**
-Creative and analytical professional with expertise in **design, journalism, UX research, and multilingual content development**. Experienced in developing culturally informed, user-focused communication across digital and editorial platforms. Skilled in **layout design, content strategy, and audience engagement**, with a strong command of language, narrative, and visual alignment. Technically proficient in research tools, content systems, and data-driven planning. Adaptable, detail-oriented, and committed to producing meaningful, research-based work that bridges **culture, media, and design**.
-</div>
-
----
-
-<div style="border:2px solid #9C27B0; border-radius:10px; padding:10px; background-color:#F3E5F5;">
-## **Core Competencies**
-- **User Experience & Research:** UX design, prototyping, wireframing, usability studies, and audience insight analysis  
-- **Visual & Editorial Design:** Layout systems, typography, branding, narrative structuring, and design documentation  
-- **Content Development:** Structured writing, editorial planning, proofreading, and content curation for digital and print media  
-- **Research & Information Analysis:** Trend interpretation, source validation, academic and applied research practices  
-- **Digital Strategy & Media Planning:** Platform-specific storytelling, engagement analytics, and strategic communication  
-- **Data Handling & Interpretation:** Data cleaning, trend reporting, spreadsheet analysis, and visual representation  
-- **Project Facilitation & Collaboration:** Cross-functional communication, stakeholder coordination, and workflow planning  
-- **Linguistic Competence:** Multilingual communication, culturally contextual content creation
-</div>
+<p align="center">
+<a href="mailto:ugneyvikrant@gmail.com"><img src="https://img.shields.io/badge/Email-ugneyvikrant%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ugneyvikrant"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="http://www.ugney.in"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://vocal.media"><img src="https://img.shields.io/badge/Vocal.media-FF6F61?style=for-the-badge&logo=mediafire&logoColor=white"/></a>
+</p>
 
 ---
 
-<div style="border:2px solid #4CAF50; border-radius:10px; padding:10px; background-color:#E8F5E9;">
-## **Digital & Technical Skills**
+<!-- ================= PROFESSIONAL PROFILE ================= -->
+## 📌 Professional Profile  
+Creative and analytical professional with expertise in **design, journalism, UX research, and multilingual content development**.  
+Skilled in **layout design, content strategy, and audience engagement**, with strong command of **language, narrative, and visual alignment**.  
+Adaptable, detail-oriented, and committed to producing meaningful, research-based work bridging **culture, media, and design**.  
+
+---
+
+<!-- ================= CORE COMPETENCIES ================= -->
+## 🔑 Core Competencies  
+<p>
+<img src="https://img.shields.io/badge/UX_Research-9C27B0?style=for-the-badge&logo=uxdesign&logoColor=white"/>
+<img src="https://img.shields.io/badge/Editorial_Strategy-3F51B5?style=for-the-badge&logo=markdown&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cultural_Studies-009688?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Digital_Media-2196F3?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linguistic_Competence-FF9800?style=for-the-badge&logo=translate&logoColor=white"/>
+</p>
+
+---
+
+<!-- ================= DIGITAL & TECHNICAL SKILLS ================= -->
+## 💻 Digital & Technical Skills  
 
 **Design & Collaboration Tools**  
 <p>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-10C6F8?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Office-0078D6?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS_Office-0078D6?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
@@ -55,65 +65,82 @@ Creative and analytical professional with expertise in **design, journalism, UX 
 <img src="https://img.shields.io/badge/Vocal-FF6F61?style=for-the-badge"/>
 </p>
 
-**Project & Editing Tools**  
+**Project & Collaboration**  
 <p>
 <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grammarly-15C53C?style=for-the-badge&logo=grammarly&logoColor=white"/>
 </p>
-</div>
+
+**Editing & Research Tools**  
+<p>
+<img src="https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grammarly-15C39A?style=for-the-badge&logo=grammarly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+</p>
 
 ---
 
-<div style="border:2px solid #03A9F4; border-radius:10px; padding:10px; background-color:#E1F5FE;">
-## **Experience**
-**Resource Mobilization Officer** – Wildlife SOS | New Delhi | Sep 2023 – June 2024  
-- Developed advocacy-driven content and donor communications  
-- Assisted in crafting media stories and digital content  
-- Conducted research supporting conservation storytelling  
+<!-- ================= EXPERIENCE ================= -->
+## 🏢 Experience  
 
-**Recruiter** – Direct Dialogue Initiatives India (Greenpeace India) | New Delhi | Sep 2022 – Feb 2023  
-- Media and policy research, report structuring, public outreach  
-- Contributed to strategic content planning  
+**Resource Mobilization Officer**  
+*Wildlife SOS | New Delhi | Sep 2023 – June 2024*  
 
-**Electronic Data Processing Assistant** – Prakash Parcel Services Ltd. | New Delhi | Dec 2021 – Aug 2022  
-- Managed data entry with 99% accuracy, generated actionable reports  
-- Supported marketing and operations through data insights  
+**Recruiter**  
+*Direct Dialogue Initiatives India (Greenpeace India) | New Delhi | Sep 2022 – Feb 2023*  
 
-**Data Analyst (Contractual)** – Timing Technologies India Pvt. Ltd. | Patna, Bihar | Apr 2020 – Oct 2021  
-- Managed competitive exam data, conducted document verification  
-- Provided trends analysis and actionable insights
-</div>
+**Electronic Data Processing Assistant**  
+*Prakash Parcel Services Ltd. | New Delhi | Dec 2021 – Aug 2022*  
+
+**Data Analyst (Contractual)**  
+*Timing Technologies India Pvt. Ltd. | Patna, Bihar | Apr 2020 – Oct 2021*  
 
 ---
 
-<div style="border:2px solid #FF9800; border-radius:10px; padding:10px; background-color:#FFF3E0;">
-## **Hobbies & Interests**
-- **Design & Innovation:** Creating solutions that enhance user experiences  
-- **Cultural Exploration:** Exploring diverse cultural influences on design & communication  
-- **Social Impact:** Environmental conservation, social justice, and sustainability
-</div>
+<!-- ================= EDUCATION ================= -->
+## 🎓 Educational Qualifications  
+
+- **MA Journalism & Mass Communication (Pursuing)** – IGNOU (2023–2025)  
+- **BCA (First Division)** – Magadh University (2015–2018)  
+- **Higher Secondary (Science – Maths)** – M.K. College, Darbhanga (2013–2015)  
+- **High School Diploma (CGPA 7.2)** – Kendriya Vidyalaya, Jammu (2012)  
 
 ---
 
-<div style="border:2px solid #9C27B0; border-radius:10px; padding:10px; background-color:#F3E5F5;">
-## **Certifications**
-- **Google UX Design Certificate (2024)** – Digital storytelling & research  
-- **Google AI Essentials (2024)** – AI in content creation & data analysis  
-- **Human Rights e-Course (2024)** – Advocacy & policy research
-</div>
+<!-- ================= HOBBIES ================= -->
+## 🎨 Hobbies & Interests  
+<p>
+<img src="https://img.shields.io/badge/Design_&_Innovation-FF5722?style=for-the-badge&logo=adobe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cultural_Exploration-3F51B5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Social_Impact-4CAF50?style=for-the-badge&logo=leaflet&logoColor=white"/>
+</p>
 
 ---
 
-<div style="border:2px solid #4CAF50; border-radius:8px; padding:10px; background-color:#f0f8ff;">
-## **Languages**
-**English (Fluent) | Hindi (Fluent) | Maithili (Native) | Bengali (Fluent) | Deutsch (Learning)**
-</div>
+<!-- ================= VOLUNTEER ================= -->
+## 🤝 Volunteer Experience  
+- **The Pro-Maithilis (Unregistered)** – Founding Member, Spokesperson, Treasurer (2020–Present)  
+- **Maithili Linguistic Expert (Project-Based)** – Josh Talks | Remote | Mar 2025 – Apr 2025  
 
 ---
 
-## **GitHub Stats**
-![Vikrant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ugneyvikrant&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ugneyvikrant&layout=compact&theme=radical)  
+<!-- ================= CERTIFICATIONS ================= -->
+## 📜 Certifications  
+<p>
+<img src="https://img.shields.io/badge/Google_UX_Design-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_AI_Essentials-FFAA00?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Human_Rights_Course-8BC34A?style=for-the-badge&logo=unitednations&logoColor=white"/>
+</p>
+
+---
+
+<!-- ================= LANGUAGES ================= -->
+## 🌍 Languages  
+<p>
+<img src="https://img.shields.io/badge/English-Fluent-000000?style=for-the-badge&logo=english&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hindi-Fluent-FF9933?style=for-the-badge&logo=hindustan&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maithili-Native-800000?style=for-the-badge&logo=language&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bengali-Fluent-008000?style=for-the-badge&logo=language&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deutsch-Learning-FFCC00?style=for-the-badge&logo=deutschebank&logoColor=black"/>
+</p>
