@@ -1,33 +1,36 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-<img src="https://img.shields.io/badge/VIKRANT%20KR.%20CHOUDHARY-FF0000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VIKRANT%20KR.%20CHOUDHARY-800020?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Design-FF6F61?style=for-the-badge&logo=adobe&logoColor=white"/>
-<img src="https://img.shields.io/badge/Research-4CAF50?style=for-the-badge&logo=bookstack&logoColor=white"/>
-<img src="https://img.shields.io/badge/Editorial-2196F3?style=for-the-badge&logo=readme&logoColor=white"/>
+<img src="https://img.shields.io/badge/Design-FF4136?style=for-the-badge&logo=adobecreativecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Research-0074D9?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Editorial-2ECC40?style=for-the-badge&logo=bookstack&logoColor=white"/>
 </p>
 
 <p align="center">
-<a href="mailto:ugneyvikrant@gmail.com"><img src="https://img.shields.io/badge/Email-ugneyvikrant%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ugneyvikrant"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="http://www.ugney.in"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="https://vocal.media"><img src="https://img.shields.io/badge/Vocal.media-FF6F61?style=for-the-badge&logo=mediafire&logoColor=white"/></a>
+<a href="mailto:ugneyvikrant@gmail.com">
+<img src="https://img.shields.io/badge/Email-ugneyvikrant%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/ugneyvikrant">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="http://www.ugney.in">
+<img src="https://img.shields.io/badge/Website-www.ugney.in-FF5722?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-<!-- ================= PROFESSIONAL PROFILE ================= -->
-## 📌 Professional Profile  
+## 📌 Professional Profile
 Creative and analytical professional with expertise in **design, journalism, UX research, and multilingual content development**.  
 Skilled in **layout design, content strategy, and audience engagement**, with strong command of **language, narrative, and visual alignment**.  
 Adaptable, detail-oriented, and committed to producing meaningful, research-based work bridging **culture, media, and design**.  
 
 ---
 
-<!-- ================= CORE COMPETENCIES ================= -->
-## 🔑 Core Competencies  
+## 🔑 Core Competencies
 <p>
 <img src="https://img.shields.io/badge/UX_Research-9C27B0?style=for-the-badge&logo=uxdesign&logoColor=white"/>
 <img src="https://img.shields.io/badge/Editorial_Strategy-3F51B5?style=for-the-badge&logo=markdown&logoColor=white"/>
@@ -39,8 +42,7 @@ Adaptable, detail-oriented, and committed to producing meaningful, research-base
 
 ---
 
-<!-- ================= DIGITAL & TECHNICAL SKILLS ================= -->
-## 💻 Digital & Technical Skills  
+## 💻 Digital & Technical Skills
 
 **Design & Collaboration Tools**  
 <p>
@@ -81,25 +83,16 @@ Adaptable, detail-oriented, and committed to producing meaningful, research-base
 
 ---
 
-<!-- ================= EXPERIENCE ================= -->
-## 🏢 Experience  
+## 🏢 Experience
 
-**Resource Mobilization Officer**  
-*Wildlife SOS | New Delhi | Sep 2023 – June 2024*  
-
-**Recruiter**  
-*Direct Dialogue Initiatives India (Greenpeace India) | New Delhi | Sep 2022 – Feb 2023*  
-
-**Electronic Data Processing Assistant**  
-*Prakash Parcel Services Ltd. | New Delhi | Dec 2021 – Aug 2022*  
-
-**Data Analyst (Contractual)**  
-*Timing Technologies India Pvt. Ltd. | Patna, Bihar | Apr 2020 – Oct 2021*  
+**Resource Mobilization Officer** – Wildlife SOS | New Delhi | Sep 2023 – June 2024  
+**Recruiter** – Direct Dialogue Initiatives India (Greenpeace India) | New Delhi | Sep 2022 – Feb 2023  
+**Electronic Data Processing Assistant** – Prakash Parcel Services Ltd. | New Delhi | Dec 2021 – Aug 2022  
+**Data Analyst (Contractual)** – Timing Technologies India Pvt. Ltd. | Patna, Bihar | Apr 2020 – Oct 2021  
 
 ---
 
-<!-- ================= EDUCATION ================= -->
-## 🎓 Educational Qualifications  
+## 🎓 Educational Qualifications
 
 - **MA Journalism & Mass Communication (Pursuing)** – IGNOU (2023–2025)  
 - **BCA (First Division)** – Magadh University (2015–2018)  
@@ -108,8 +101,7 @@ Adaptable, detail-oriented, and committed to producing meaningful, research-base
 
 ---
 
-<!-- ================= HOBBIES ================= -->
-## 🎨 Hobbies & Interests  
+## 🎨 Hobbies & Interests
 <p>
 <img src="https://img.shields.io/badge/Design_&_Innovation-FF5722?style=for-the-badge&logo=adobe&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cultural_Exploration-3F51B5?style=for-the-badge&logo=googlemaps&logoColor=white"/>
@@ -118,15 +110,7 @@ Adaptable, detail-oriented, and committed to producing meaningful, research-base
 
 ---
 
-<!-- ================= VOLUNTEER ================= -->
-## 🤝 Volunteer Experience  
-- **The Pro-Maithilis (Unregistered)** – Founding Member, Spokesperson, Treasurer (2020–Present)  
-- **Maithili Linguistic Expert (Project-Based)** – Josh Talks | Remote | Mar 2025 – Apr 2025  
-
----
-
-<!-- ================= CERTIFICATIONS ================= -->
-## 📜 Certifications  
+## 📜 Certifications
 <p>
 <img src="https://img.shields.io/badge/Google_UX_Design-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_AI_Essentials-FFAA00?style=for-the-badge&logo=google&logoColor=white"/>
@@ -135,12 +119,22 @@ Adaptable, detail-oriented, and committed to producing meaningful, research-base
 
 ---
 
-<!-- ================= LANGUAGES ================= -->
-## 🌍 Languages  
+## 🌍 Languages
 <p>
 <img src="https://img.shields.io/badge/English-Fluent-000000?style=for-the-badge&logo=english&logoColor=white"/>
 <img src="https://img.shields.io/badge/Hindi-Fluent-FF9933?style=for-the-badge&logo=hindustan&logoColor=white"/>
 <img src="https://img.shields.io/badge/Maithili-Native-800000?style=for-the-badge&logo=language&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bengali-Fluent-008000?style=for-the-badge&logo=language&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deutsch-Learning-FFCC00?style=for-the-badge&logo=deutschebank&logoColor=black"/>
+<img src="https://img.shields.io/badge/Deutsch-Learning-00008B?style=for-the-badge&logo=de&logoColor=white"/>
+</p>
+---
+
+## 📊 GitHub Stats & Contribution
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vixcdry&show_icons=true&theme=radical&hide_border=true" alt="Vikrant's GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vixcdry&show_icons=false&theme=radical&count_private=true&hide_border=true&include_all_commits=true&hide_title=false" alt="Vikrant's Contribution Graph"/>
 </p>
